@@ -1,0 +1,200 @@
+[
+    {
+        "num": "1",
+        "cargo": "false",
+        "changeQ": "false",
+        "changedQTo": 0,
+        "name": "011648 Спальный мешок Bestway 68102 Hiberhide 10, серый 222",
+        "quantity": "2",
+        "location": "222",
+        "uhtishka": "false",
+        "uhtQuant": 0
+    },
+    {
+        "num": "2",
+        "cargo": "false",
+        "changeQ": "false",
+        "changedQTo": 0,
+        "name": "006803 Палатка для переодевания туалета душа Bestway 68002 222",
+        "quantity": "12",
+        "location": "222",
+        "uhtishka": "false",
+        "uhtQuant": 0
+    },
+    {
+        "num": "3",
+        "cargo": "false",
+        "changeQ": "false",
+        "changedQTo": 0,
+        "name": "012193 Набор сетевика для обжимки, тестирования и монтажа витой пары в чехле 7186 222",
+        "quantity": "10",
+        "location": "222",
+        "uhtishka": "false",
+        "uhtQuant": 0
+    },
+    {
+        "num": "4",
+        "cargo": "false",
+        "changeQ": "false",
+        "changedQTo": 0,
+        "name": "005838 Зонт палатка для рыбалки окно d2.5м SF23775 227",
+        "quantity": "4",
+        "location": "227",
+        "uhtishka": "false",
+        "uhtQuant": 0
+    },
+    {
+        "num": "5",
+        "cargo": "false",
+        "changeQ": "false",
+        "changedQTo": 0,
+        "name": "005837 Зонт палатка для рыбалки 2 окна тент d2.2м SF23774 227",
+        "quantity": "8",
+        "location": "227",
+        "uhtishka": "false",
+        "uhtQuant": 0
+    },
+    {
+        "num": "6",
+        "cargo": "false",
+        "changeQ": "false",
+        "changedQTo": 0,
+        "name": "005250 100шт Коннектор RJ45 8P8C Cat5 Cat5e Cat6 RJ-45 255",
+        "quantity": "30",
+        "location": "255",
+        "uhtishka": "false",
+        "uhtQuant": 0
+    },
+    {
+        "num": "7",
+        "cargo": "false",
+        "changeQ": "false",
+        "changedQTo": 0,
+        "name": "010826 Мясорубка Domotec MS-2023 2800W* Б",
+        "quantity": "1",
+        "location": "Б",
+        "uhtishka": "false",
+        "uhtQuant": 0
+    },
+    {
+        "num": "8",
+        "cargo": "false",
+        "changeQ": "false",
+        "changedQTo": 0,
+        "name": "000398 Тестер RJ45 LAN витой пары RJ-45 RJ-11 RJ-12 К",
+        "quantity": "30",
+        "location": "К",
+        "uhtishka": "false",
+        "uhtQuant": 0
+    },
+    {
+        "num": "9",
+        "cargo": "false",
+        "changeQ": "false",
+        "changedQTo": 0,
+        "name": "015052 Электропростынь Electric Blanket 7417 150х120 см, серый клетчатый К",
+        "quantity": "1",
+        "location": "К",
+        "uhtishka": "false",
+        "uhtQuant": 0
+    },
+    {
+        "num": "10",
+        "cargo": "false",
+        "changeQ": "false",
+        "changedQTo": 0,
+        "name": "009780 Сумка-рюкзак для мам Baby Bag 5505, бирюзовый Н",
+        "quantity": "3",
+        "location": "Н",
+        "uhtishka": "false",
+        "uhtQuant": 0
+    },
+    {
+        "num": "11",
+        "cargo": "false",
+        "changeQ": "false",
+        "changedQTo": 0,
+        "name": "015538 Фонарь уличный BK-128-6COB на солнечной батарее, с пультом 7499 Н",
+        "quantity": "10",
+        "location": "Н",
+        "uhtishka": "false",
+        "uhtQuant": 0
+    },
+    {
+        "num": "12",
+        "cargo": "false",
+        "changeQ": "false",
+        "changedQTo": 0,
+        "name": "015061 Самокат для взрослых SR 2-058-B, черный Р",
+        "quantity": "1",
+        "location": "Р",
+        "uhtishka": "false",
+        "uhtQuant": 0
+    },
+    {
+        "num": "13",
+        "cargo": "false",
+        "changeQ": "false",
+        "changedQTo": 0,
+        "name": "017171 Заброды Sams Fish SF24078, 43-45 р Р",
+        "quantity": "2",
+        "location": "Р",
+        "uhtishka": "false",
+        "uhtQuant": 0
+    },
+    {
+        "num": "14",
+        "cargo": "false",
+        "changeQ": "false",
+        "changedQTo": 0,
+        "name": "007303 Мяч для фитнеса Фитбол Profit 0382, желтый С",
+        "quantity": "1",
+        "location": "С",
+        "uhtishka": "false",
+        "uhtQuant": 0
+    },
+    {
+        "num": "15",
+        "cargo": "false",
+        "changeQ": "false",
+        "changedQTo": 0,
+        "name": "002574 Радиоприемник колонка MP3 Golon RX-9922UAR* С",
+        "quantity": "2",
+        "location": "С",
+        "uhtishka": "false",
+        "uhtQuant": 0
+    },
+    {
+        "num": "16",
+        "cargo": "false",
+        "changeQ": "false",
+        "changedQTo": 0,
+        "name": "009381 Рюкзак тактический раздвижной K1006 черный, 70-85 л Х",
+        "quantity": "5",
+        "location": "Х",
+        "uhtishka": "false",
+        "uhtQuant": 0
+    },
+    {
+        "num": "17",
+        "cargo": "false",
+        "changeQ": "false",
+        "changedQTo": 0,
+        "name": "009815 Мухобойка электрическая Esperanza EHQ004 Annihilator ",
+        "quantity": "4",
+        "location": "Воскресенка",
+        "uhtishka": "false",
+        "uhtQuant": 0
+    },
+    {
+        "num": "18",
+        "cargo": "false",
+        "changeQ": "false",
+        "changedQTo": 0,
+        "name": "010341 Термопот Camry CR 1267 8.8 л ",
+        "quantity": "2",
+        "location": "Воскресенка",
+        "uhtishka": "false",
+        "uhtQuant": 0
+    }
+]
