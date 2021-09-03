@@ -32,7 +32,7 @@ class RequestHandler(BaseHTTPRequestHandler):
         self.end_headers()
 
         print()
-        with open("data.json", "r", encoding="utf-8") as f:
+        with open("db.json", "r", encoding="utf-8") as f:
             data = load(f)
         self.wfile.write(bytes(dumps(data), "utf8"))
 
@@ -46,14 +46,14 @@ class RequestHandler(BaseHTTPRequestHandler):
         data = self.rfile.read(dataLength)
         rcv_data = convert_to_dict(data.decode("utf-8"))
 
-        with open("data.json", "r", encoding="utf-8") as f:
+        with open("db.json", "r", encoding="utf-8") as f:
             temp = load(f)
 
         for i in temp:
             if i['num'] == rcv_data['num']:
                 temp[temp.index(i)] = rcv_data
 
-        with open("data.json", "w", encoding="utf-8") as f:
+        with open("db.json", "w", encoding="utf-8") as f:
             dump([*temp], f, ensure_ascii=False)
             print("data saved!")
 
